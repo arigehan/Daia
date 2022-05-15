@@ -828,10 +828,10 @@ i {
 }
 .landing-page .carousel-indicators.carousel-indicators-blue li {
   /* USED little dots under 3 pics (carousel) */
-  border-color: #ff00f2;
+  border-color: #ffaaaa;
 }
 .landing-page .carousel-indicators.carousel-indicators-blue .active {
-  background-color: #f1c5ff;
+  background-color: #ffc5c5;
 }
 .landing-page .carousel-indicators.carousel-indicators-green li {
   border-color: #3abe41;
@@ -1009,17 +1009,17 @@ i {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#232526', endColorstr='#de414345',GradientType=0 ); /* IE6-8 */
 }
 .filter-gradient.blue:after {
-  background: rgba(148, 54, 151, 0.8); /* Old browsers */
+  background: rgba(244, 87, 87, 0.8); /* Old browsers */
   background: -moz-radial-gradient(
     center,
     ellipse cover,
-    #991e99 0%,
+    #f54c4c 0%,
     rgba(54, 151, 142, 0.8) 0%,
     #0c526c 100%,
-    #943daa 100%,
-    #441848 100%,
-    #6e48aa 100%,
-    #6e48aa 100%
+    #dc4040 100%,
+    #481818 100%,
+    #aa4848 100%,
+    #aa4848 100%
   ); /* FF3.6+ */
   background: -webkit-gradient(
     radial,
@@ -1425,7 +1425,7 @@ i {
   border-color: #e9ccf5;
 }
 .landing-page .section-features .card.card-blue .icon i {
-  color: #842e8b; /* 3 lil icon things */
+  color: #bc3b3b; /* 3 lil icon things */
 }
 .landing-page .section-features .card.card-green {
   border-color: #bdf8c0;
