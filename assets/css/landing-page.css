@@ -59,7 +59,7 @@ h1,
 
 h2,
 .h2 {
-  color:rgba(0, 0, 0, 0.3);
+  color:rgba(0, 0, 0);
   margin-top: 50px;
   font-size: 36px;
   font-weight: "bold";
@@ -68,14 +68,14 @@ h2,
 
 h3,
 .h3 {
-  color:rgba(0, 0, 0, 0.3);
+  color:rgb(0, 0, 0, .85);
   font-size: 28px;
   margin: 20px 0 10px;
 }
 
 h4,
 .h4 {
-  color:rgba(0, 0, 0, 0.3);
+  color:rgba(0, 0, 0, 0.8);
   font-size: 22px;
   line-height: 30px;
 }
