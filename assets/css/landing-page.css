@@ -219,7 +219,7 @@ i {
 }
 .btn-primary.btn-fill {
   color: rgb(0, 0, 0);
-  background-color: #a014e0;
+  background-color: #ff4f4f;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -228,7 +228,7 @@ i {
 .btn-primary.btn-fill:active,
 .btn-primary.btn-fill.active,
 .open > .btn-primary.btn-fill.dropdown-toggle {
-  background-color: #a014e0;
+  background-color: #ff4f4f;
   color: rgb(0, 0, 0);
 }
 .btn-primary.btn-fill .caret {
@@ -279,7 +279,7 @@ i {
 }
 
 .btn-info {
-  border-color: #a014e0;
+  border-color: #ff4f4f;
   color: #ffffff;
 }
 
@@ -289,14 +289,14 @@ i {
 .btn-info.active,
 .open > .btn-info.dropdown-toggle {
   background-color: transparent;
-  color: #d6a1ee;
-  border-color: #a014e0;
+  color: #ffaaaa;
+  border-color: #ff4f4f;
 }
 .btn-info:disabled,
 .btn-info[disabled],
 .btn-info.disabled {
   background-color: transparent;
-  border-color: #a014e0;
+  border-color: #ff4f4f;
 }
 .btn-info.btn-fill {
   color: rgb(0, 0, 0);
