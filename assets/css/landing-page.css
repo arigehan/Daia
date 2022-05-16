@@ -1450,7 +1450,8 @@ i {
 }
 .landing-page .section-features .card h4 {
   font-weight: 300;
-  font-size: 28px;
+  font-size: 33px;
+  font-family: Arial, Helvetica, sans-serif;
   margin: 30px 0 -15px;
 }
 
