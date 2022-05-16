@@ -312,7 +312,7 @@ i {
 .btn-info.btn-fill:active,
 .btn-info.btn-fill.active,
 .open > .btn-info.btn-fill.dropdown-toggle {
-  background-color: #ecdbf0;
+  background-color: #f0dbdb; /*background of textbod when clicked*/
   color: rgb(0, 0, 0);
 }
 .btn-info.btn-fill .caret {
@@ -1452,7 +1452,7 @@ i {
   font-weight: 300;
   font-size: 33px;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 30px 0 -15px;
+  margin: 15px 0 -15px;
 }
 
 .landing-page .section-features .card p {
