@@ -172,7 +172,7 @@ i {
   opacity: 1;
   filter: alpha(opacity=100);
   text-align: center;
-  margin-right: 10;
+  margin-right: 100;
 }
 .btn.btn-fill:hover,
 .btn.btn-fill:focus,
