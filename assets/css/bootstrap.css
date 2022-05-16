@@ -1758,7 +1758,7 @@ pre code {
     width: 66.66666667%;
   }
   .col-md-7 {
-    width: 58.33333333%;
+    width: 54.33333333%; /*58.33333333*/
   }
   .col-md-6 {
     width: 50%;
@@ -1872,7 +1872,7 @@ pre code {
     margin-left: 66.66666667%;
   }
   .col-md-offset-7 {
-    margin-left: 53.33333333%; /*58.33333333*/
+    margin-left: 58.33333333%;
   }
   .col-md-offset-6 {
     margin-left: 50%;
