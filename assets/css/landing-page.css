@@ -53,7 +53,7 @@ h4,
 h1,
 .h1 {
   color:rgb(0, 0, 0);
-  margin-top: 300; /* 3 */
+  margin-top: 3;
   font-size: 52px;
   font-style: bold;
   text-align: center;
@@ -1364,6 +1364,7 @@ i {
 .landing-page .section-no-padding .parallax .info h1 {
   font-size: 40px;
   font-weight: 300;
+  margin-top: 300; /* added*/
 }
 
 .landing-page .section-no-padding .parallax .info a {
