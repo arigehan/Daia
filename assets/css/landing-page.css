@@ -70,7 +70,7 @@ h2,
 
 h3,
 .h3 {
-  color:rgb(0, 0, 0, .66);
+  color:rgba(255, 255, 255, 0);
   font-size: 28px;
   margin: 20px 0 10px;
   text-align: center;
@@ -1364,7 +1364,6 @@ i {
 .landing-page .section-no-padding .parallax .info h1 {
   font-size: 40px;
   font-weight: 300;
-  margin-top: 300; /* added*/
 }
 
 .landing-page .section-no-padding .parallax .info a {
