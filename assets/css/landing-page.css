@@ -287,7 +287,7 @@ i {
 }
 
 .btn-info {
-  border-color: #ff4f4f;
+  border-color: #c74fff; /* changed from #ff4f4f*/
   color: #ffffff;
   text-align: center;
 }
@@ -298,14 +298,14 @@ i {
 .btn-info.active,
 .open > .btn-info.dropdown-toggle {
   background-color: transparent;
-  color: #ffaaaa;
-  border-color: #ff4f4f;
+  color: #e6aaff; /* changed from #ffaaaa*/
+  border-color: #c74fff; /* changed from #ff4f4f*/
 }
 .btn-info:disabled,
 .btn-info[disabled],
 .btn-info.disabled {
   background-color: transparent;
-  border-color: #ff4f4f;
+  border-color: #c74fff; /* changed from #ff4f4f*/
 }
 .btn-info.btn-fill {
   color: rgb(0, 0, 0);
@@ -318,7 +318,7 @@ i {
 .btn-info.btn-fill:active,
 .btn-info.btn-fill.active,
 .open > .btn-info.btn-fill.dropdown-toggle {
-  background-color: #f0dbdb; /*background of textbod when clicked*/
+  background-color: #eadbf0; /*background of textbod when clicked*/
   color: rgb(0, 0, 0);
 }
 .btn-info.btn-fill .caret {
@@ -329,8 +329,8 @@ i {
 }
 
 .btn-warning {
-  border-color: #ffa17f;
-  color: #ffa17f;
+  border-color: #ff7ff9; /* changed from #ffa17f*/
+  color: #ff7ff9; /* changed from #ffa17f*/
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -358,7 +358,7 @@ i {
 .btn-warning.btn-fill:active,
 .btn-warning.btn-fill.active,
 .open > .btn-warning.btn-fill.dropdown-toggle {
-  background-color: #ff967f;
+  background-color: #f07fff;
   color: white;
 }
 .btn-warning.btn-fill .caret {
