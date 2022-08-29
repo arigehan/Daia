@@ -594,7 +594,7 @@ i {
 
 .navbar-transparent .navbar-brand,
 [class*="navbar-ct"] .navbar-brand {
-  color: white;
+  color: rgb(0, 0, 0); /*changed from white*/
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
