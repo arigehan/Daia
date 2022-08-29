@@ -837,10 +837,10 @@ i {
 }
 .landing-page .carousel-indicators.carousel-indicators-blue li {
   /* USED little dots under 3 pics (carousel) */
-  border-color: #ffaaaa;
+  border-color: #daaaff; /*changed from #ffaaaa*/
 }
 .landing-page .carousel-indicators.carousel-indicators-blue .active {
-  background-color: #ffc5c5;
+  background-color: #fbc5ff; /*changed from #ffc5c5*/
 }
 .landing-page .carousel-indicators.carousel-indicators-green li {
   border-color: #3abe41;
@@ -906,7 +906,7 @@ i {
 
 .logo-container .brand {
   font-size: 30px;
-  color: #ffffff;
+  color: #000000; /*changed from white*/
   line-height: 20px;
   float: left;
   margin-left: 10px;
@@ -1431,10 +1431,10 @@ i {
 }
 
 .landing-page .section-features .card.card-blue {
-  border-color: #faadad;
+  border-color: #e9adfa; /*changed icons border from #faadad*/
 }
 .landing-page .section-features .card.card-blue .icon i {
-  color: #bc3b3b; /* 3 lil icon things */
+  color: #883bbc; /* 3 lil icon things #bc3b3b*/
 }
 .landing-page .section-features .card.card-green {
   border-color: #bdf8c0;
